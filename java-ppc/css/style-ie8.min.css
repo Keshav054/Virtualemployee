@@ -1,0 +1,46 @@
+body {margin:0px; padding:0px;}
+.header {width:100%; float:left; background-image:url(../images/transp.png); background-repeat:repeat-x; position:fixed; z-index:999; }
+.header.sticky {background-image:url(../images/sticky-header-i8.png); background-repeat:repeat-x;}
+.banneimageholder {display:block;}
+.testimonials {width:330px;}
+.testimonials .cover { background-image:url(../images/i8-cover.png); background-repeat:no-repeat; height:130px; padding:10px 21%;}
+.container {width:1140px; margin:0px auto;}
+.col-sm-4 {width:33.33333333%; float:left;}
+.col-sm-8 {width: 66.66666667%; float:left;}
+.col-sm-6 {width:50%;}
+.zeropain {position:absolute; left:25%; margin:0px auto; width:50%; }
+.taglineholder {position:absolute;top:28%; left:25%; margin:0px auto; width:50%;}
+.taglineholder .title-l {font-size:2em; margin:0px 0px;}
+.taglineholder .title-sm {font-size:1.5em; margin:5px 0px;}
+.taglineholder .title-smsm {font-size:1.5em; margin:50px 0px 0px 0px;}
+.zerowarp .title {font-size:16px;}
+.zerowarp p {font-size:14px;}
+.testimonail-avatar {display:block;}
+.mobile-avatar {display:none;}
+.menu-bar {float: right;}
+ul.sub-menu li {list-style-type:none; margin:0px; line-height:30px;}
+ul.sub-menu li a {padding:0px 10px;}
+ul.phonemenu {border:none !important; left:-150px;}
+.nav-info {right:15px !important;}
+.soundgood {margin-top:170px;}
+.clietquotes .icon-open {left:-23px; top:0px;}
+.clietquotes .icon-close {right:-23px; top:0px;}
+.videop-widgets .layers a i {left:45%; top:33%;}
+.testimonial p {font-size:15px;}
+.col-md-3 {width: 25%;}
+.col-sm-3 {width: 25%;}
+.domain-cards {min-height:250px; margin-bottom:20px;}
+.works-cards {border:1px solid #ccc; min-height:180px; }
+.domain-cards {border:1px solid #ccc; }
+ul.riskfree li {padding:10px; background:#fff; border:1px solid #ccc;  -moz-border-radius:50px;-webkit-border-radius:50px;border-radius:50px; height:80px; margin-bottom:0px; behavior: url(../css/PIE.htc)}
+.riskfree .checker {position:absolute; left:42%; top:-4px;}
+.works-cards .icon {behavior: url(../css/PIE.htc); width:80px; height:80px; margin:-55px auto 0px auto; border-radius:50%; -moz-border-radius:50%; -webkit-border-radius:50%; -o-webkit-border-radius:50%;}
+.ab_hire{ border-radius:3px; -moz-border-radius:3px; -webkit-border-radius:3px; border-bottom-left-radius:0px; border-bottom-right-radius:0px; behavior: url(../css/PIE.htc);background-image:url(../images/ab_hire_bg_i8.png); background-repeat:repeat-x; height:47px;}
+ul.row_sales li{margin:5px;}
+.testimonial_bg{ border-radius:4px; -moz-border-radius:4px; -webkit-border-radius:4px; -o-webkit-border-radius:4px; behavior: url(../css/PIE.htc);background-image:url(../images/testi_bg_i8.png); background-repeat:repeat-x; height:49px; width:100%;}
+.col-sm-8-ie-8 {width:66.6667%;}
+.col-sm-4-ie-8 {width:33.3333%;}
+span.office-time{border-radius:3px; -moz-border-radius:3px; -webkit-border-radius:3px; -o-webkit-border-radius:3px; behavior: url(../css/PIE.htc);}
+.overlay_vd{filter: alpha(opacity=8);background:#000;}
+.overlay_happy_clnt{filter: alpha(opacity=61);background:#212533;}
+.poster_bg{background: url(../images/serv-video-bg.png) center center no-repeat;-webkit-background-size: cover;-moz-background-size: cover; -o-background-size:cover;background-size: cover; height:100%;-ms-behavior: url(../css/backgroundsize.min.htc); }
